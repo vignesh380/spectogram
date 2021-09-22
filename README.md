@@ -1,1 +1,1 @@
-# spectograph
+# spectogram
